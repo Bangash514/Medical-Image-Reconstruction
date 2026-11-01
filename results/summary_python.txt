@@ -1,0 +1,5 @@
+slices: 47, pixels used: 429274
+voxels filled directly: 42.89 %, after hole filling: 99.99 %
+recon vs ground truth in ROI: NCC 0.5254, RMSE 0.1685
+prostate segmentation: Dice 0.8438, volume error 0.56 %
+lesion: Dice 0.8575, centroid error 0.324 mm

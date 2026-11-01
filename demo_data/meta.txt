@@ -1,0 +1,16 @@
+N=96
+S=47
+H=96
+W=96
+dx=0.5
+pdx=0.5
+lx=8.0
+ly=-5.0
+lz=4.0
+nx=1.5
+ny=-1.0
+nz=1.0
+spacing=1.0
+sigma_t=0.3
+sigma_r=0.3
+seed=1
